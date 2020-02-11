@@ -11,7 +11,7 @@ class Dog
   end
   
   def self.print_all(name)
-    puts "#{@@all}"
+    puts @@all
   end
   
   
