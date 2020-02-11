@@ -10,7 +10,7 @@ class Dog
     @@all
   end
   
-  def self.print_all
+  def self.print_all(name)
     puts "#{name}"
   end
   
